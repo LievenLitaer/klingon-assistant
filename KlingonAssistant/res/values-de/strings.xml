@@ -79,8 +79,8 @@
     <string name="menu_media">Medien</string>
     <string name="menu_social">Soziale Netzwerke</string>
     <string name="menu_kli">Klingon Language Institute</string>
-    <string name="menu_kli_lessons">Online Lessons</string>
-    <string name="menu_kli_questions">Ask Questions!</string>
+    <string name="menu_kli_lessons">Online Kurse</string>
+    <string name="menu_kli_questions">Frage stellen</string>
     <string name="menu_gplus">Forum auf Google+</string>
     <string name="menu_facebook">Facebook-Gruppe</string>
     <string name="menu_kag">KAG Communications</string>
@@ -107,7 +107,7 @@
     <string name="proverbs">andere Sprichwörter</string>
     <string name="toasts">Trinksprüche</string>
     <string name="lyrics">Liedtexte</string>
-    <string name="idioms">Idiome</string>
+    <string name="idioms">Redewendungen</string>
     <string name="beginners_conversation">Sätze für Anfänger</string>
     <string name="jokes">Witze</string>
 
@@ -136,8 +136,13 @@
         <string name="xifan_hol_preference_summary">Erlaube \"x\" für {tlh}, \"f\" für {ng}, usw.</string>
         <string name="swap_qs_preference_title">{Q} und {q} tauschen</string>
         <string name="swap_qs_preference_summary">Nutze \"k\" als {q} und \"q\" als {Q}.</string>
+      <string name="social_preferences">Soziale Einstellungen</string>
+        <string name="social_network_preference_title">Soziales Netzwerk</string>
+         <string name="social_network_preference_summary">Wähle dein bevorzugtes soziales Netzwerk.</string>
       <string name="informational_preferences">Zusätzliche Informationen</string>
-        <string name="show_transitivity_preference_title">Transitivität</string>
+        <string name="use_colours_preference_title">Farben benutzen</string>
+        <string name="use_colours_preference_summary">Verschiedene Wortarten mit verschiedenen Farben hervorheben.</string>
+       <string name="show_transitivity_preference_title">Transitivität</string>
         <string name="show_transitivity_preference_summary">Eine \"beste Vermutung\" anzeigen, ob ein Verb ein Objekt haben kann.</string>
         <string name="show_additional_information_preference_title">Zusatzinfos</string>
         <string name="show_additional_information_preference_summary">Hintergrundinfos wie Wortspiele, Fehler, usw. anzeigen</string>
