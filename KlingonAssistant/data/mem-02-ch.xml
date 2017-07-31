@@ -290,12 +290,12 @@ The imperative verb prefix when {chaH:n:nolink} is the object is {tI-:v:pref}.</
       <column name="entry_name">chal bIQ</column>
       <column name="part_of_speech">n:deriv</column>
       <column name="definition">rain</column>
-      <column name="definition_de"></column>
+      <column name="definition_de">Regen</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also"></column>
       <column name="notes">This would be used, for example, to refer to a puddle on the ground and it was necessary to be clear that the puddle resulted from rain. Otherwise, the water would just be {bIQ:n} (perhaps with some modifier or other).</column>
-      <column name="notes_de"></column>
+      <column name="notes_de">Damit könnte man das Wasser in einer Pfütze beschreiben, um deutlich zu machen, dass es nicht etwas anderes ist. Ansonsten ist es einfach nur {bIQ:n} (evtl. mit einem anderen Zusatz).</column>
       <column name="hidden_notes"></column>
       <column name="components">{chal:n}, {bIQ:n}</column>
       <column name="examples"></column>
@@ -309,7 +309,7 @@ The imperative verb prefix when {chaH:n:nolink} is the object is {tI-:v:pref}.</
       <column name="entry_name">chal chuch</column>
       <column name="part_of_speech">n:deriv</column>
       <column name="definition">snow</column>
-      <column name="definition_de"></column>
+      <column name="definition_de">Schnee</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also"></column>
